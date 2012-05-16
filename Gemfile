@@ -7,7 +7,7 @@ gem "devise", "~> 2.0.4"
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
-
+#test
 gem 'sqlite3'
 
 # Gems used only for assets and not required
